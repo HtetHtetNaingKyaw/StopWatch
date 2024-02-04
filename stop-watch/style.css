@@ -1,0 +1,26 @@
+.form{
+    width: 19%;
+    margin: 50px auto;
+
+}
+
+.body{
+    user-select: none;
+    background-color: #696f6c;
+    color: #fff;
+}
+
+.ll{
+    border-radius: 8px;
+    border-color: rgb(245, 12, 12);
+}
+
+.ll:hover{
+   border-color: none;
+   cursor: pointer;
+}
+
+.log:hover{
+    background-color: rgb(69, 67, 67);
+}
+
